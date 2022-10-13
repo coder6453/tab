@@ -1,3 +1,3 @@
 while(true){
-  window.open;
+  window.open();
 }
